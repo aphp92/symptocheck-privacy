@@ -1,0 +1,1 @@
+# symptocheck-privacy
